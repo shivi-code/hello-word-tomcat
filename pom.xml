@@ -20,12 +20,7 @@
                <artifactId>joda-time</artifactId>
                <version>2.2</version>
            </dependency>
-           <dependency> 
-                <groupId>com.sarav</groupId>
-               <artifactId>TomcatMavenApp</artifactId>
-               <version>2.0</version>
-           </dependency>
-       </dependencies>
+         </dependencies>
        <!-- end::joda[] -->
        
     <build>
